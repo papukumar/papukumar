@@ -49,6 +49,6 @@
 
 **Checkout my Github Stats**
 
-[![Papu Kumar's github stats](https://github-readme-stats.vercel.app/api?username=papukumar&count_private=true&show_icons=true&icon_color=74b510&theme=radical)]()
+[![Papu Kumar's github stats](https://github-readme-stats.vercel.app/api?username=papukumar&count_private=true&show_icons=true&icon_color=74b510&theme=radical)](#)
 
-[![Papu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papukumar&theme=dark)]()
+[![Papu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papukumar&theme=dark)](#)
