@@ -51,4 +51,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=papukumar&count_private=true&include_all_commits=true&show_icons=true&icon_color=74b510&theme=radical)
 
+[![Papu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papukumar&theme=dark)](https://github.com/papuruth/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=papukumar&theme=dark&langs_count=10&custom_title=Papu%20Kumar%27s%20Top%20Langs&layout=compact&title_color=fc438e)
