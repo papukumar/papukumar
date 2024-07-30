@@ -15,7 +15,7 @@
  - 📫 **Connect with me here**:<br />
  <p align="center">
   <a href="https://p-folio.netlify.app" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/Portfolio-30302f?style=flat&logo=Internet Explorer">
+    <img src="https://img.shields.io/badge/Portfolio-30302f?style=flat&logo=netlify">
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/papuruth/" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Linkedin-30302f?style=flat&logo=linkedin">
