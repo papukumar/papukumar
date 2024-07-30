@@ -22,9 +22,6 @@
   </a> &nbsp; 
  <a href="mailto:papu.kumar@birdeye.com" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Gmail-30302f?style=flat&logo=gmail">
-  </a>&nbsp;
-  <a href="https://instagram.com/papuruth" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram">
   </a>
 </p>
 
